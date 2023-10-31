@@ -1,0 +1,65 @@
+
+[
+    {
+        "name": "Camión Cisterna",
+        "img": "../img/C-Cisterna.png",
+        "category": "Pipa",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor consequat id porta nibh venenatis cras sed felis eget. Est ullamcorper eget nulla facilisi etiam dignissim diam."
+    },
+    
+    {
+        "name": "Camión plancha",
+        "img": "../img/C-plancha.jpg",
+        "category": "Camión",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor consequat id porta nibh venenatis cras sed felis eget. Est ullamcorper eget nulla facilisi etiam dignissim diam."
+    },
+
+    {
+        "name": "Grúa",
+        "img": "../img/C-plancha.jpg",
+        "category": "Grúa",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor consequat id porta nibh venenatis cras sed felis eget. Est ullamcorper eget nulla facilisi etiam dignissim diam."
+    },
+
+    {
+        "name": "Monta Carga",
+        "img": "../img/C-plancha.jpg",
+        "category": "Monta Carga",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor consequat id porta nibh venenatis cras sed felis eget. Est ullamcorper eget nulla facilisi etiam dignissim diam."
+    },
+
+    {
+        "name": "Grúas de 5 Toneladas",
+        "img": "../img/C-plancha.jpg",
+        "category": "Grúa Torre",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor consequat id porta nibh venenatis cras sed felis eget. Est ullamcorper eget nulla facilisi etiam dignissim diam."
+    },
+
+    {
+        "name": "Grúas de 6 Toneladas",
+        "img": "../img/C-plancha.jpg",
+        "category": "Grúa Torre",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor consequat id porta nibh venenatis cras sed felis eget. Est ullamcorper eget nulla facilisi etiam dignissim diam."
+    },
+
+    {
+        "name": "Grúas de 10 Toneladas",
+        "img": "../img/C-plancha.jpg",
+        "category": "Grúa Torre",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor consequat id porta nibh venenatis cras sed felis eget. Est ullamcorper eget nulla facilisi etiam dignissim diam."
+    },
+
+    {
+        "name": "Grúas de 18 Toneladas",
+        "img": "../img/C-plancha.jpg",
+        "category": "Grúa Torre",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor consequat id porta nibh venenatis cras sed felis eget. Est ullamcorper eget nulla facilisi etiam dignissim diam."
+    },
+
+    {
+        "name": "Cargador Frontal",
+        "img": "../img/C-plancha.jpg",
+        "category": "Excavadora",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor consequat id porta nibh venenatis cras sed felis eget. Est ullamcorper eget nulla facilisi etiam dignissim diam."
+    }
+]
